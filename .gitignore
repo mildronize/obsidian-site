@@ -40,3 +40,5 @@ tsconfig.tsbuildinfo
 public/assets/posts
 
 .tmp
+
+.obsidian-site-config.js

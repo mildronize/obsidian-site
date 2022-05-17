@@ -1,7 +1,7 @@
 // @ts-check
 
 /**
- * @type {import('./app/data/interfaces/ISiteMetadata').ISiteMetadata}
+ * @type {import('./obsidian-site/data/interfaces/ISiteMetadata').ISiteMetadata}
  */
 
 // TODO: Check path is valid before start app

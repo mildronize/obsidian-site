@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "dev": "run-s clean && cross-env SOCKET=true node ./scripts/next-watch.js ../contents",
+    "dev": "run-s clean && cross-env SOCKET=true node ./scripts/next-watch.js ../example-contents",
     "start": "run-s clean && node ./scripts/server.js",
     "build": "run-s clean && next build",
     "lint": "next lint",
