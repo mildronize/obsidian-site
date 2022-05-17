@@ -1,0 +1,110 @@
+
+.markdown p, .markdown h2, .markdown h3, .markdown h4  {
+	@apply break-words ;
+}
+
+/* .markdown {
+  @apply text-lg leading-relaxed;
+}
+
+.markdown p,
+.markdown ul,
+.markdown ol,
+.markdown blockquote {
+  @apply my-6;
+}
+
+.markdown h2 {
+  @apply text-3xl mt-12 mb-4 leading-snug;
+}
+
+.markdown h3 {
+  @apply text-2xl mt-8 mb-4 leading-snug;
+} */
+
+/* .markdown {
+  @apply text-lg leading-relaxed ;
+} */
+/* 
+ .markdown h1, .markdown h2, .markdown h3, .markdown h4, .markdown h5, .markdown h6 {
+	 margin-bottom: 0px;
+	 padding-top: 0px;
+	 margin-top: 20px;
+}
+ .markdown a.anchor {
+	 top: 0px;
+}
+ .markdown h1 {
+	 font-size: 1.7rem;
+}
+ .markdown h2 {
+	 font-size: 1.5rem;
+}
+ .markdown h3 {
+	 font-size: 1.25rem;
+}
+ .markdown h4 {
+	 font-size: 1.15rem;
+}
+ .markdown p {
+	 margin: 25px 0;
+}
+ .markdown ol > li, .markdown ul > li {
+	 margin: 7px 0;
+}
+ .markdown ol > li > p {
+	 margin: 10px 0;
+}
+ .markdown p > code {
+	 margin-left: 2px;
+	 margin-right: 2px;
+	 font-size: 0.8em;
+}
+ .markdown pre > code {
+	 font-size: 0.9rem;
+}
+ .markdown a.url {
+	 word-break: break-all;
+}
+ .markdown .gatsby-highlight {
+	 margin: 30px 0;
+}
+ .markdown img {
+	 margin: 20px 0 20px 0;
+	 max-width: 100%;
+	 height: auto;
+}
+ .markdown blockquote {
+	 background-color: var(--colors-blockquote);
+	 padding: 15px 25px;
+	 margin: 10px 0 10px 0;
+	 border-radius: 0.5em;
+	 margin-block-start: 0;
+}
+ .markdown blockquote p {
+	 margin: 0;
+	 padding: 0;
+}
+ .markdown iframe {
+	 border: none;
+}
+ .markdown hr {
+	 margin: 70px 20px;
+	 border: 1px solid var(--colors-hover-0);
+}
+ .markdown details {
+	 border: 2px solid var(--colors-hover-1);
+	 padding: 15px;
+	 border-radius: 7px;
+}
+ .markdown details :hover {
+	 border-color: var(--colors-border-details);
+}
+ .markdown details > summary {
+	 text-decoration: underline;
+	 cursor: pointer;
+}
+ .markdown details > summary :hover {
+	 text-decoration: none;
+}
+  */
